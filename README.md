@@ -1,4 +1,3 @@
-# 👋 Hey there!  
 
 🛠️ Flutter tinkerer, Python back-end 
 🛰️ Loves time-bending stories & overengineered hackathon projects. 
