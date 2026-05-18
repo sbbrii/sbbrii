@@ -1,4 +1,4 @@
-# Hi, I am Sabari
+![Banner](assets/images/Github_Banner_1.png)
 
 CS & AI Undergraduate (Class of ’27) focused on Machine Learning, Edge AI, and intelligent systems development.
 
